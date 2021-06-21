@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96003845-c705-45cb-acf3-f0c8d6929c21" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uGd9Oa9TG6cUZQpUTaxMLCA3eE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager" selected="Gradle.TestWeapon.testShotWithWeaponFalse">
+    <configuration name="TestWeapon" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TestWeapon&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestWeapon.main" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TestWeapon.main&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestWeapon.testGetSlotsCount" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TestWeapon.testGetSlotsCount&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestWeapon.testShotWithWeapon" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TestWeapon.testShotWithWeapon&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestWeapon.testShotWithWeaponFalse" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TestWeapon.testShotWithWeaponFalse&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TestWeapon.testShotWithWeaponFalse" />
+        <item itemvalue="Gradle.TestWeapon.testShotWithWeapon" />
+        <item itemvalue="Gradle.TestWeapon.testGetSlotsCount" />
+        <item itemvalue="Gradle.TestWeapon" />
+        <item itemvalue="Gradle.TestWeapon.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96003845-c705-45cb-acf3-f0c8d6929c21" name="Default Changelist" comment="" />
+      <created>1624295707729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624295707729</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2516" height="406" key="GridCell.Tab.0.bottom" timestamp="1624302040089">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="406" key="GridCell.Tab.0.bottom/0.0.2560.1440/2560.0.2560.1440@0.0.2560.1440" timestamp="1624302040089" />
+    <state width="2516" height="406" key="GridCell.Tab.0.center" timestamp="1624302040088">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="406" key="GridCell.Tab.0.center/0.0.2560.1440/2560.0.2560.1440@0.0.2560.1440" timestamp="1624302040088" />
+    <state width="2516" height="406" key="GridCell.Tab.0.left" timestamp="1624302040088">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="406" key="GridCell.Tab.0.left/0.0.2560.1440/2560.0.2560.1440@0.0.2560.1440" timestamp="1624302040088" />
+    <state width="2516" height="406" key="GridCell.Tab.0.right" timestamp="1624302040089">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="406" key="GridCell.Tab.0.right/0.0.2560.1440/2560.0.2560.1440@0.0.2560.1440" timestamp="1624302040089" />
+    <state width="2516" height="498" key="GridCell.Tab.1.bottom" timestamp="1624301390117">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="498" key="GridCell.Tab.1.bottom/0.0.2560.1440/2560.0.2560.1440@0.0.2560.1440" timestamp="1624301390117" />
+    <state width="2516" height="498" key="GridCell.Tab.1.center" timestamp="1624301390117">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="498" key="GridCell.Tab.1.center/0.0.2560.1440/2560.0.2560.1440@0.0.2560.1440" timestamp="1624301390117" />
+    <state width="2516" height="498" key="GridCell.Tab.1.left" timestamp="1624301390117">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="498" key="GridCell.Tab.1.left/0.0.2560.1440/2560.0.2560.1440@0.0.2560.1440" timestamp="1624301390117" />
+    <state width="2516" height="498" key="GridCell.Tab.1.right" timestamp="1624301390117">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2516" height="498" key="GridCell.Tab.1.right/0.0.2560.1440/2560.0.2560.1440@0.0.2560.1440" timestamp="1624301390117" />
+    <state x="760" y="294" key="SettingsEditor" timestamp="1624301842590">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="760" y="294" key="SettingsEditor/0.0.2560.1440/2560.0.2560.1440@0.0.2560.1440" timestamp="1624301842590" />
+  </component>
+</project>
